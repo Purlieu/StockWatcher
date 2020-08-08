@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockWatcher", "StockWatcher\StockWatcher.csproj", "{667F89F0-188F-4054-B4B8-77AE382DC316}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockWatcherLib", "StockWatcherLib\StockWatcherLib.csproj", "{8D9A6259-8370-4EE4-B0BC-7AF9C630D45A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{667F89F0-188F-4054-B4B8-77AE382DC316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{667F89F0-188F-4054-B4B8-77AE382DC316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{667F89F0-188F-4054-B4B8-77AE382DC316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{667F89F0-188F-4054-B4B8-77AE382DC316}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D9A6259-8370-4EE4-B0BC-7AF9C630D45A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D9A6259-8370-4EE4-B0BC-7AF9C630D45A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D9A6259-8370-4EE4-B0BC-7AF9C630D45A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D9A6259-8370-4EE4-B0BC-7AF9C630D45A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01C3564A-72A0-4AD0-9AF2-FE98027A1154}
+	EndGlobalSection
+EndGlobal

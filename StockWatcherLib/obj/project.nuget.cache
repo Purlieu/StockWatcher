@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/IymvkOKMVpH6pJ1I7bQIR/WVbgeGjG5ikUvzA+atVwqNl/wZ4n+RV0JTg+mEgav7lyKQLr75rI2n7emBxi0RQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\veilo\\source\\repos\\StockWatcher\\StockWatcherLib\\StockWatcherLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\veilo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\veilo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
